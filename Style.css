@@ -1,0 +1,15 @@
+html {
+  font-family: Cursive;
+}
+body {
+display: flex;
+height: 100vh;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+background-color: lightblue;
+}
+
+.lastResult {
+  color: white;
+  padding: 3px;
